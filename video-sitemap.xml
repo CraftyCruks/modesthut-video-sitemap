@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://modesthut.com/products/stratford-coffee-table</loc>
+    <video:video>
+      <video:thumbnail_loc>https://modesthut.com/cdn/shop/files/preview_images/083f6a397a5243fc953836b429333b7f.thumbnail.0000000000_400x.jpg?v=1682877789</video:thumbnail_loc>
+      <video:title>Stratford Coffee Table Video</video:title>
+      <video:description>Watch this product in action and see its details up close. Stratford Coffee Table by Modest Hut.</video:description>
+      <video:content_loc>https://modesthut.com/cdn/shop/videos/c/vp/083f6a397a5243fc953836b429333b7f/083f6a397a5243fc953836b429333b7f.SD-480p-0.9Mbps-14246162.mp4?v=0</video:content_loc>
+      <video:publication_date>2025-04-22T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+</urlset>
